@@ -37,7 +37,7 @@ gem 'devise', '>= 3.2.4'
 
 gem 'simple_form'
 
-gem 'carrierwave', '0.11.2'
+gem 'carrierwave-aws'
 
 gem "figaro"
 
