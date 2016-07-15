@@ -17,6 +17,21 @@ body {
   color:white;
 }
 
+.navbar-inverse a.navbar-brand:hover {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
+  color: #4169E1;
+}
+
+.navbar-inverse .navbar-nav li a {
+  color: white;
+}
+
+.navbar-inverse .navbar-nav li a:hover {
+  color: #4169E1;
+}
+
+
 .hero {
   background: url('hero.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
